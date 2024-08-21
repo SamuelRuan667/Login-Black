@@ -1,0 +1,15 @@
+.container {
+    text-align: center;
+    margin-top: 50px;
+  }
+  
+  input, button {
+    margin-bottom: 10px;
+  }
+  
+  .message {
+    margin-top: 20px;
+    font-size: 24px;
+    font-weight: bold;
+  }
+  
